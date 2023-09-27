@@ -1,6 +1,5 @@
 # second.repo
-second coding
+This is my second code
 
-i'm definetely getting good at this
 
-okay so i'm looking forward to becoming pro at this
+it is about Netflix login page
